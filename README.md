@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 203423" src="https://github.com/user-attachments/assets/5163276a-389f-4d4f-b121-05f76d448bf2" /># Ex04 Places Around Me
 # Date:
 # AIM
 To develop a website to display details about the places around my house.
@@ -107,10 +107,14 @@ malai.html
 </html>```
 
 # OUTPUT
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 202519.png
-C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 203358.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 203423.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 204030.png
 
-# RESULT
-The program for implementing image maps using HTML is executed successfully.
+<img width="1919" height="1077" alt="Screenshot 2025-12-15 202519" src="https://github.com/user-attachments/assets/6a1ba710-fcb6-419a-884f-65e83546c519" />
+
+<img width="1919" height="1077" alt="Screenshot 2025-12-15 203358" src="https://github.com/user-attachments/assets/92009617-3b14-4080-b676-db8efc66b6de" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 203423" src="https://github.com/user-attachments/assets/71169638-0cff-444d-ac08-049bc0bdd4c1" />
+
+<img width="1917" height="1079" alt="Screenshot 2025-12-15 204030" src="https://github.com/user-attachments/assets/4d233a99-b983-487e-9b59-b4ce2b474e4b" />
+
+#Result!:
+ The program for implementing image maps using HTML is executed successfully.
