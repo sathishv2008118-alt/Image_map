@@ -1,5 +1,5 @@
 <img width="1919" height="1079" alt="Screenshot 2025-12-15 203423" src="https://github.com/user-attachments/assets/5163276a-389f-4d4f-b121-05f76d448bf2" /># Ex04 Places Around Me
-# Date:
+# Date:20/11/2025
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -25,7 +25,7 @@ Execute the programs and publish them.
 # Code
 Map .html
 
-```
+
 {% load static %}
 <title>Thiruvannamalai </title>
 <body>
@@ -65,7 +65,7 @@ Temple.html
            Many saints and sages, like Sri Ramana Maharshi, have worshipped there<br> 
            ```
 jawadhu.html
-```<html>
+<html>
     <head>
         <title>jawadhu </title>
          <img src="jawadhu.jpeg"  usemap="#image-map">
@@ -83,7 +83,7 @@ jawadhu.html
 </html>```
 
 malai.html
-```<html>
+<html>
     <head>
         <title>Parvathamalai </title>
          <img src="malai.jpeg"  usemap="#image-map">
@@ -104,10 +104,9 @@ malai.html
         <br>
 
     </body>
-</html>```
+</html>
 
 # OUTPUT
-
 <img width="1919" height="1077" alt="Screenshot 2025-12-15 202519" src="https://github.com/user-attachments/assets/6a1ba710-fcb6-419a-884f-65e83546c519" />
 
 <img width="1919" height="1077" alt="Screenshot 2025-12-15 203358" src="https://github.com/user-attachments/assets/92009617-3b14-4080-b676-db8efc66b6de" />
